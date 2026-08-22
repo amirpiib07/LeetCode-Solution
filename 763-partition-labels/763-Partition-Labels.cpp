@@ -1,39 +1,25 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        vector<int> mpp(26, 0);
 
-        
-        for (char ch : s) {
-            mpp[ch - 'a']++;
+        vector<int> last(26, 0);
+
+        for (int i = 0; i < s.size(); i++) {
+            last[s[i] - 'a'] = i;
         }
 
-        unordered_set<char> st;
         vector<int> ans;
 
-        int count = 0;
+        int start = 0;
+        int end = 0;
 
-        for (int idx = 0; idx < s.size(); idx++) {
+        for (int i = 0; i < s.size(); i++) {
 
-            char ch = s[idx];
+            end = max(end, last[s[i] - 'a']);
 
-            
-            st.insert(ch);
-
-            
-            mpp[ch - 'a']--;
-
-            
-            if (mpp[ch - 'a'] == 0) {
-                st.erase(ch);
-            }
-
-            count++;
-
-            
-            if (st.empty()) {
-                ans.push_back(count);
-                count = 0;
+            if (i == end) {
+                ans.push_back(end - start + 1);
+                start = i + 1;
             }
         }
 
