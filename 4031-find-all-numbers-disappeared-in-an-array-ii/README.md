@@ -1,12 +1,4 @@
-# 4031. Find All Numbers Disappeared in an Array II
-
-🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/)
-
-**Topics:** N/A
-
----
-
-<p>You are given an integer array <code>nums</code> and two integers <code>lower</code> and <code>upper</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii">4031. Find All Numbers Disappeared in an Array II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>lower</code> and <code>upper</code>.</p>
 
 <p>A <strong>missing integer</strong> is an integer in the inclusive range <code>[lower, upper]</code> that does not appear in <code>nums</code>.</p>
 
@@ -70,8 +62,3 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= lower &lt;= upper &lt;= 10<sup>5</sup></code></li>
 </ul>
-
-
----
-
-**My Solution:** [4031-Find-All-Numbers-Disappeared-in-an-Array-II.cpp](./4031-Find-All-Numbers-Disappeared-in-an-Array-II.cpp)
