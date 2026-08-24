@@ -1,19 +1,4 @@
 class Solution {
-    int f(int idx, vector<int>& stones, vector<int>& dp) {
-        if (idx == stones.size() - 1)
-            return stones[idx];
-
-        if (dp[idx] != INT_MIN)
-            return dp[idx];
-
-        // take
-        int take = stones[idx] - f(idx + 1, stones, dp);
-
-        // skip
-        int skip = f(idx + 1, stones, dp);
-
-        return dp[idx] = max(skip, take);
-    }
 
 public:
     int stoneGameVIII(vector<int>& stones) {
@@ -21,7 +6,15 @@ public:
         for (int idx = 1; idx < stones.size(); idx++)
             stones[idx] = stones[idx] + stones[idx - 1];
 
-        vector<int> dp(n - 1, INT_MIN);
-        return f(1, stones, dp);
+        vector<int> dp(n);
+        dp[n - 1] = stones[n - 1];
+        for (int idx = n - 2; idx >= 1; idx--) {
+            int take = stones[idx] - dp[idx + 1];
+            int n_take = dp[idx + 1];
+
+            dp[idx] = max(take, n_take);
+        }
+
+        return dp[1];
     }
 };
