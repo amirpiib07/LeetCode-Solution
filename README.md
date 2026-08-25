@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
