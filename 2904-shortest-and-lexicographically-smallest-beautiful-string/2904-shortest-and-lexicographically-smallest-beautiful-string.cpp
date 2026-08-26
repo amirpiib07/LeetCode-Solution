@@ -9,12 +9,12 @@ public:
         int c_one = 0;
         while(j < n){
             if(s[j] == '1') c_one++;
-            if(c_one == k + 1){
-                while(c_one != k){
-                    if(s[i] == '1') c_one--;
-                    i--;
-                }
-            }
+            // if(c_one == k + 1){
+            //     while(c_one != k){
+            //         if(s[i] == '1') c_one--;
+            //         i++;
+            //     }
+            // }
             while(c_one == k && i< n){
                 start = i;
                 end = j;
