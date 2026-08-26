@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3794-reverse-string-prefix](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
