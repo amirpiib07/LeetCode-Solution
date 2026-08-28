@@ -4,12 +4,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -64,4 +66,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
