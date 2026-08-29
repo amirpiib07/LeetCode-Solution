@@ -83,4 +83,5 @@
 | [0180-consecutive-numbers](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0196-delete-duplicate-emails) |
 | [0608-tree-node](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
