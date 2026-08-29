@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
