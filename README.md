@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0896-monotonic-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
