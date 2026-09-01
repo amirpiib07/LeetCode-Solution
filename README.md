@@ -20,6 +20,7 @@
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -94,4 +96,13 @@
 | ------- |
 | [0461-hamming-distance](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0476-number-complement) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
