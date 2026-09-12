@@ -23,6 +23,7 @@
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -43,6 +44,7 @@
 | [0115-distinct-subsequences](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
