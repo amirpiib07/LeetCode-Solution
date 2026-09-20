@@ -15,6 +15,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3794-reverse-string-prefix) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
