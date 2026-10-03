@@ -31,6 +31,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -139,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -236,4 +238,28 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
