@@ -46,6 +46,7 @@
 | [1872-stone-game-viii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -137,6 +138,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
@@ -155,6 +157,7 @@
 | [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
@@ -211,6 +214,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amirpiib07/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -272,6 +276,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amirpiib07/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
