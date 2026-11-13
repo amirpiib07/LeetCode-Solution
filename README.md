@@ -20,6 +20,7 @@
 | [0856-score-of-parentheses](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -47,6 +48,7 @@
 | [0835-image-overlap](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0912-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0953-verifying-an-alien-dictionary) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1267-count-servers-that-communicate](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -155,6 +157,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/amirpiib07/LeetCode-Solution/tree/master/0953-verifying-an-alien-dictionary) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1096-brace-expansion-ii](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amirpiib07/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
